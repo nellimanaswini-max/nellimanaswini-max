@@ -70,31 +70,59 @@ a better engineer.
 
 ---
 
-# 🚀 Currently Building
+🚀 What I'm Building
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td>
 
-### 💻 Coding Dashboard
+🏠 DormDrop
 
-✔ React
+Status
 
-✔ TypeScript
+🟢 Active Development
 
-✔ Supabase
+Tech
 
-✔ API Integrations
+React
 
-Progress
+Supabase
 
-████████░░ 80%
+TypeScript
+
+REST APIs
+
+AI Integration
 
 </td>
 
-<td width="50%">
+<td>
 
+😊 Mood Journal
+
+Status
+
+✅ Completed
+
+Tech
+
+Flask
+
+SQLite
+
+JavaScript
+
+Chart.js
+
+Analytics
+
+</td>
+
+</tr>
+
+</table>
 ### 📚 Currently Learning
 
 ☕ Java
