@@ -106,6 +106,9 @@ AI Integration
 <td width="50%">
 
 </td>
+</td>
+
+</tr>
 
 
 ### 📚 Currently Learning
