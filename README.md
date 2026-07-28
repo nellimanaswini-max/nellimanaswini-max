@@ -76,52 +76,52 @@ a better engineer.
   <img src="https://raw.githubusercontent.com/nellimanaswini-max/nellimanaswini-max/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-🚀 Currently I'm Building
+---
+
+# 🚀 Currently Building
 
 <table>
 <tr>
-  
-<td width="50%">
 
-### 🏠 DormDrop
+<td width="50%" valign="top">
 
-Status
+## 🏠 DormDrop
+
+**Status**
 
 🟢 Active Development
 
-Tech
+**Tech Stack**
 
-React
+- React
+- TypeScript
+- Supabase
+- REST APIs
+- Tailwind CSS
 
-Supabase
+**Progress**
 
-TypeScript
-
-REST APIs
-
-AI Integration
-
-</td>
-
-<td width="50%">
+████████░░ 80%
 
 </td>
+
+<td width="50%" valign="top">
+
+## 📚 Currently Learning
+
+- ☕ Java
+- 📊 Data Structures & Algorithms
+- ⚛️ React Ecosystem
+- 🤖 AI Applications
+- 🏗️ Software Engineering
+- ☁️ Supabase
+
 </td>
 
 </tr>
+</table>
 
-
-### 📚 Currently Learning
-
-☕ Java
-
-📊 Data Structures
-
-⚛ React
-
-🤖 AI Applications
-
-🏗 Software Engineering
+---
 
 
 ---
