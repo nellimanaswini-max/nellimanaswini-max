@@ -70,6 +70,12 @@ a better engineer.
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nellimanaswini-max/nellimanaswini-max/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 🚀 Currently I'm Building
 
 <table>
@@ -99,6 +105,11 @@ AI Integration
 
 <td width="50%">
 
+</td>
+
+</tr>
+</table>
+
 ### 📚 Currently Learning
 
 ☕ Java
@@ -111,10 +122,6 @@ AI Integration
 
 🏗 Software Engineering
 
-</td>
-
-</tr>
-</table>
 
 ---
 <!-- ========================================================= -->
