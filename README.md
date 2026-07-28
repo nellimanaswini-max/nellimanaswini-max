@@ -107,8 +107,6 @@ AI Integration
 
 </td>
 
-</tr>
-</table>
 
 ### 📚 Currently Learning
 
