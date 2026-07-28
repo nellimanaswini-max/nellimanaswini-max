@@ -70,15 +70,14 @@ a better engineer.
 
 ---
 
-🚀 What I'm Building
+🚀 Currently I'm Building
 
 <table>
-
 <tr>
+  
+<td width="50%">
 
-<td>
-
-🏠 DormDrop
+### 🏠 DormDrop
 
 Status
 
@@ -98,31 +97,8 @@ AI Integration
 
 </td>
 
-<td>
+<td width="50%">
 
-😊 Mood Journal
-
-Status
-
-✅ Completed
-
-Tech
-
-Flask
-
-SQLite
-
-JavaScript
-
-Chart.js
-
-Analytics
-
-</td>
-
-</tr>
-
-</table>
 ### 📚 Currently Learning
 
 ☕ Java
@@ -286,11 +262,11 @@ Analytics
 
 <td>
 
-### 📊 Coding Dashboard
+### 🏠 DormDrop
 
 Status
 
-🟢 Active
+🟢 Active Development
 
 Tech
 
@@ -301,6 +277,8 @@ Supabase
 TypeScript
 
 REST APIs
+
+AI Integration
 
 </td>
 
@@ -320,6 +298,8 @@ SQLite
 
 JavaScript
 
+Chart.js
+
 Analytics
 
 </td>
@@ -327,7 +307,6 @@ Analytics
 </tr>
 
 </table>
-
 ---
 
 # 🎯 2026 Mission
@@ -339,7 +318,7 @@ Learning:
   - System Design
 
 Building:
-  - Coding Dashboard
+  - Dorm Drop
   - AI Powered Applications
   - Full Stack Projects
 
@@ -377,11 +356,11 @@ Goal:
 
 <summary>
 
-# 📊 Coding Dashboard
+# 🏠 DormDrop
 
-### Full Stack Analytics Platform
+### Smart Student Accommodation Platform
 
-*Track. Analyse. Improve.*
+*Find. Connect. Move In.*
 
 </summary>
 
@@ -389,94 +368,110 @@ Goal:
 
 ## 🎯 Problem
 
-Developers solve problems on multiple coding platforms, but their progress remains scattered across different websites.
-
-Tracking daily consistency, monthly growth, and yearly performance manually becomes difficult.
+Students often leave behind books, lab equipment, calculators, electronics, hostel essentials, and other useful items at the end of a semester. Meanwhile, juniors spend time and money searching for the same items through external marketplaces where trust and relevance are limited.
 
 ---
 
 ## 💡 Solution
 
-Developing a unified dashboard that automatically collects coding activity and transforms it into meaningful insights through analytics and visualisations.
+DormDrop is a full-stack campus marketplace built exclusively for students of the same college. It enables seniors and juniors to securely buy, sell, and discover pre-owned items within their campus community, making student-to-student transactions simpler, more affordable, and more sustainable.
 
 ---
 
 ## 🏗 Architecture
 
 ```text
-            APIs
-              │
-              ▼
-      React Frontend
-              │
-              ▼
-     Supabase Backend
-              │
-              ▼
-      PostgreSQL Database
-              │
-              ▼
-     Analytics Dashboard
+             Users
+               │
+               ▼
+        React Frontend
+               │
+               ▼
+      Supabase Backend
+               │
+        ┌──────┴──────┐
+        ▼             ▼
+ Authentication   PostgreSQL
+                      │
+                      ▼
+             Listings • Users • Messages
+                      │
+                      ▼
+            Campus Marketplace
 ```
 
 ---
 
 ## ⚙ Tech Stack
 
-| Layer | Technology |
-|--------|------------|
-| Frontend | React + TypeScript |
-| Backend | Supabase |
-| Database | PostgreSQL |
-| Styling | Tailwind CSS |
-| Deployment | Vercel / Netlify |
+| Layer          | Technology         |
+| -------------- | ------------------ |
+| Frontend       | React + TypeScript |
+| Backend        | Supabase           |
+| Database       | PostgreSQL         |
+| Styling        | Tailwind CSS       |
+| Authentication | Supabase Auth      |
+| Deployment     | Vercel / Netlify   |
 
 ---
 
-## ✨ Features
+✨ Features
 
-✅ Daily Coding Tracker
+✅ Buy & sell within your college
 
-✅ Monthly Analytics
+✅ Secure student authentication
 
-✅ Yearly Statistics
+✅ Product listings with images
 
-✅ Platform Comparison
+✅ Search & category filters
 
-✅ Responsive Dashboard
+✅ Easy posting and item management
 
-✅ Authentication
+✅ Mobile-friendly responsive interface
 
 ---
 
 ## 📂 Project Structure
 
 ```text
-src/
- ├── components/
- ├── pages/
- ├── hooks/
- ├── services/
- ├── utils/
- └── assets/
+DormDrop/
+│
+├── 📁 src/
+│   ├── 🧩 components/
+│   ├── 📄 pages/
+│   ├── 🔧 services/
+│   ├── 🎣 hooks/
+│   ├── 🛠 utils/
+│   ├── 🎨 assets/
+│   └── ⚛ App.tsx
+│
+├── 🗄 supabase/
+│
+├── 🌐 public/
+│
+├── 📦 package.json
+│
+└── 📖 README.md
 ```
 
 ---
 
 ## 🚀 Future Roadmap
 
-- GitHub Integration
-- LeetCode API
-- CodeChef Analytics
-- Coding Heatmaps
-- Weekly Reports
-- AI Performance Insights
+* AI-powered price suggestions
+* Smart search recommendations
+* In-app chat between buyers and sellers
+* Wishlist & saved items
+* Item verification badges
+* Ratings & reviews
+* Campus-specific communities
+* Payment integration
 
 ---
 
 ## 📈 Status
 
-🟢 Currently Building
+🟢 Active Development
 
 Progress
 
@@ -485,8 +480,6 @@ Progress
 </details>
 
 ---
-
-<details>
 
 <summary>
 
@@ -714,11 +707,10 @@ Exploring:
 # 🎯 This Year
 
 - [ ] Build 10 polished projects
-- [ ] Solve 500+ DSA problems
+- [ ] Solve 250+ DSA problems
 - [ ] Learn advanced Java
 - [ ] Contribute to Open Source
 - [ ] Create a personal portfolio
-- [ ] Publish technical articles
 
 ---
 
